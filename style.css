@@ -1,0 +1,105 @@
+html {
+  background-color: #522;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 4em;
+  color: #ccc;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: #bb5;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+h5 {
+  font-family: 'Aref Ruqaa';
+  color: #ddd;
+  font-size: 2em;
+  margin-top: -10px;
+}
+
+ul {
+  list-style: none;
+}
+
+li a {
+  font-size: 1.4em;
+  line-height: 3em;
+  color: #fff;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #aaa;
+  border: 2px solid;
+  padding: 10px;
+  border-radius: 5px;
+  border-color: #a00;
+}
+
+img {
+  border-radius: 15px;
+}
+
+#homeContent {
+  background-color: black;
+  display: flex;
+  border-radius: 30px;
+}
+
+#navagation {
+  background-color: #700;
+  width: 11%;
+  padding-right: 1%;
+  font-family: sans-serif;
+  border-radius: 30px 0 0 30px;
+}
+
+#main {
+  background-color: #a00;
+  width: 79%;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family: monospace;
+  color: #fff;
+}
+
+#main p {
+  font-size: 1.25em;
+  color: #bbb;
+  line-height: 1.5rem;
+}
+
+#extra {
+  color: #999;
+  background-color: #700;
+  width: 10%;
+  padding-left: 1%;
+  padding-right: 1%;
+  text-align: center;
+  border-radius: 0 30px 30px 0;
+}
+
+#extra p {
+  font-size: 1.2em;
+  color: #ccc;
+}
+
+.contactInfo {
+  margin-top: -40px;
+}
+
+footer {
+  text-align: center;
+  background-color: #822;
+  height: 50px;
+}

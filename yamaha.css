@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 45px;
+    display: block;
+    padding: 10px;
+    border: solid 5px white;
+  }
+
+#main {
+
+  text-align: center;
+  padding: 0px;
+  border: 0px;
+
+}
+
+#main2 {
+
+padding-top: 20px;
+
+}
+
+#main3 {
+  text-align: center;
+}
